@@ -2,10 +2,10 @@ const axios = require("axios");
 const querystring = require("querystring");
 
 const config = {
- consumer_key: "5PXzHkBuatXVnqpLKeQOLeO5o",
- consumer_secret: "6yO8a6Ixuzajq38cLTTnMek90mA6KLr5u1CPMpn3iJqPuZq1XM",
- access_token: "1590717055-QiBuK8RCZ9lDklRotAfGPLrQWZW0czgBwBjLpUz",
- access_token_secret: "IzZX8zSbkwAc6kbQvFLoyQawfFA6ps0bOe4EnkITS1Vi1",
+ consumer_key: "....",
+ consumer_secret: "...",
+ access_token: "....",
+ access_token_secret: "....",
  timeout_ms: 60 * 1000, // optional HTTP request timeout to apply to all requests.
  strictSSL: true // optional - requires SSL certificates to be valid.
 };
